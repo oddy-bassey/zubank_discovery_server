@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.revoltcode</groupId>
 	<artifactId>zubank_discovery_server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>zubank_discovery_server</name>
 	<description>A discovery server application for my ZuBank application</description>
 	<properties>
